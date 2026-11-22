@@ -36,13 +36,6 @@
       "skillPath": "skills/caveman/SKILL.md",
       "computedHash": "b51af74aacdadbc3c2d6bb79f05db58dc521854b87f7ffabd48faf286a81ed31"
     },
-    "content-strategy": {
-      "source": "coreyhaines31/marketingskills",
-      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
-      "sourceType": "github",
-      "skillPath": "skills/content-strategy/SKILL.md",
-      "computedHash": "94a23ddb279c20ea8c7c7751eb07f548c855a5287aed8983f31e63b49e7dbf1a"
-    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "commit": "57217cf86ba38148a57af9e90d14a4c049558330",
@@ -77,13 +70,6 @@
       "sourceType": "github",
       "skillPath": "skills/pricing/SKILL.md",
       "computedHash": "9bea1819645df0b2d95429ecb64745ef5d2940b0bb161a40131eae3db8222813"
-    },
-    "seo-audit": {
-      "source": "coreyhaines31/marketingskills",
-      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
-      "sourceType": "github",
-      "skillPath": "skills/seo-audit/SKILL.md",
-      "computedHash": "d42f6f32bb62f8ebce93826ef33a7b663f2259b2891a0992f3d63dbd46f0f5ad"
     },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
