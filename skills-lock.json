@@ -36,6 +36,34 @@
       "skillPath": "skills/caveman/SKILL.md",
       "computedHash": "b51af74aacdadbc3c2d6bb79f05db58dc521854b87f7ffabd48faf286a81ed31"
     },
+    "caveman-commit": {
+      "source": "juliusbrussee/caveman",
+      "commit": "70f4f34e834893ea9af9f4fc6022266bd56d18b1",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-commit/SKILL.md",
+      "computedHash": "2c1472fb59eedd3cfba0b6512dc470a00287343ade421db55c21a6fb52afbe86"
+    },
+    "caveman-compress": {
+      "source": "juliusbrussee/caveman",
+      "commit": "70f4f34e834893ea9af9f4fc6022266bd56d18b1",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-compress/SKILL.md",
+      "computedHash": "1f627a3ac239baa859918cf64a5e89619c162e1e9787c6d97ad41c5a1cc2fdb9"
+    },
+    "caveman-help": {
+      "source": "juliusbrussee/caveman",
+      "commit": "70f4f34e834893ea9af9f4fc6022266bd56d18b1",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-help/SKILL.md",
+      "computedHash": "6a3e3d37fa03b4aa0622a6aec14446a243619c1539ad419e065dc8b1cd70aacd"
+    },
+    "caveman-stats": {
+      "source": "juliusbrussee/caveman",
+      "commit": "70f4f34e834893ea9af9f4fc6022266bd56d18b1",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-stats/SKILL.md",
+      "computedHash": "d47db80af9353f411b5840fa207ac10c883f04576cd280b135e3a44a0ff86285"
+    },
     "diagnosing-superpowers": {
       "source": "obra/superpowers",
       "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
@@ -91,6 +119,13 @@
       "sourceType": "github",
       "skillPath": "skills/karpathy-guidelines/SKILL.md",
       "computedHash": "e64131803b0a34b8c39afc11338a74f8305cf8f69f750620bdf6cb38f6865c52"
+    },
+    "migration": {
+      "source": "juliusbrussee/caveman",
+      "commit": "70f4f34e834893ea9af9f4fc6022266bd56d18b1",
+      "sourceType": "github",
+      "skillPath": "skills/migration/SKILL.md",
+      "computedHash": "e7c6efc84ff8f85d0242e7f29f51c09fd333c294cc3123ef8ee4b2aca2a93192"
     },
     "pricing": {
       "source": "coreyhaines31/marketingskills",
